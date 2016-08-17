@@ -11,6 +11,13 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.2510287424083799
-name: Gauf & Partners
-title: Гауф и Партнёры
+author:
+  name: Vyacheslav Kuleshov
+  email: k.v@mac.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/38768a01-0c0b-4a31-9c58-70da215f13d7.png
+name: Гауф и Партнёры
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/24bdc306-b80a-4756-923e-ad9f116ceca3.ico
+title: адвокатские услуги
 description: адвокатские услуги
