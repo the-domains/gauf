@@ -1,0 +1,14 @@
+layout_spectrum: 0.2510287424083799
+typography_spectrum: 0.944596050074324
+color:
+  brandStrength: 0.12297182762995362
+  lightness: 0.4194523529149592
+  saturation: 0.6966515830717981
+  rhythmicContrast: 0.5348527519963682
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: gauf
